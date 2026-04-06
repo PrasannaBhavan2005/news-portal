@@ -1,4 +1,4 @@
-# News Portal
+# News Portal: A news website
 
 A full-stack News Aggregator web application that fetches the latest news articles and displays them in a modern UI.  
 The application supports authentication, dark mode, category filtering, country-based news, and pagination.
